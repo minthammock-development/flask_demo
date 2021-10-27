@@ -1,4 +1,5 @@
 ven-flask-demo/
+flaskr_env/
 
 *.pyc
 __pycache__/
